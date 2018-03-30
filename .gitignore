@@ -3,3 +3,5 @@
 /Demo/obj
 /src/Demo/obj
 /src/Demo/bin
+/src/.vs
+/src/FileWatcher.suo
